@@ -9,7 +9,6 @@ function countLetters (string) {
     }
     letterCount[word[i]]++;
   }
-
   return letterCount;
 }
 
